@@ -1,0 +1,8 @@
+venv/
+downloads/
+__pycache__/
+*.pyc
+build/
+dist/
+assets/icon.iconset/
+.DS_Store
